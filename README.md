@@ -2,7 +2,7 @@
 DeepDraft is an AI-powered multi-agent research system built with Streamlit, LangChain, LangGraph, Groq, and Tavily. It automates web research using specialized AI agents that search, scrape, write, and critique detailed research reports through a modern futuristic interface.
 
 🚀 Live Demo
-🔗 https://deepdraft.streamlit.app/
+🔗 https://deep-draft.streamlit.app/
 
 ✨ Features
 🤖 Multi-Agent Architecture
